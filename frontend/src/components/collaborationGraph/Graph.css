@@ -1,0 +1,45 @@
+.graph-container {
+  background-image: linear-gradient(#0d1d29, black);
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  margin: 2%;
+  padding-left: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.custom-svg-checkbox {
+  fill: transparent;
+  stroke: var(--primary);
+  stroke-width: 1px;
+  cursor: pointer;
+}
+
+.custom-svg-checkbox[data-checked="true"] {
+  fill: blue;
+}
+
+.custom-svg-check {
+  fill: transparent;
+  cursor: pointer;
+}
+
+.custom-svg-check[data-checked="true"] {
+  fill: white;
+  cursor: pointer;
+}
+
+text {
+  fill: white;
+}
+
+.graph-help {
+  fill: grey;
+  cursor: pointer;
+  font-size: 10px;
+}
+
+.node-info {
+  text-anchor: middle;
+  font-size: 10px;
+  fill: grey;
+}

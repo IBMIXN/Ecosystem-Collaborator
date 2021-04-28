@@ -1,0 +1,26 @@
+.signup-form-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding-top: 2%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 10%;
+  min-height: 100%;
+}
+
+.form-next-page-button {
+  text-align: end;
+}
+
+.short-input {
+  width: 50% !important;
+  margin: auto;
+}
+
+.signup-form {
+  padding: 20px;
+  border-radius: 15px 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

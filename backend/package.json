@@ -1,0 +1,13 @@
+{
+  "name": "ixn-fyp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-react-views": "^0.11.0",
+    "ibm-cloud-sdk-core": "^2.7.1",
+    "ibm-watson": "^6.0.2",
+    "nconf": "^0.11.2"
+  }
+}

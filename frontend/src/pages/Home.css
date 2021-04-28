@@ -1,0 +1,9 @@
+.home-buttons-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
+.home-button {
+  margin-bottom: 10px;
+}
