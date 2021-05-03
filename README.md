@@ -1,4 +1,4 @@
-# Welcome to Ecoystem Collaboration
+# Welcome to Ecosystem Collaboration
 
 This project uses IBM Watson Discovery to build a platform for promoting collaboration. It allows companies to sign up to the platform and project managers to search for companies to collaborate with. This is proof of concept project that runs locally using [Docker](https://www.docker.com) which eliminates the need to install dependencies onto your machine. Dummy data is uploaded to the Discovery Collection when the project is first run.
 
